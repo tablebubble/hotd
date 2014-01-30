@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hod_logo.png</file>
+        <file>hadith.db</file>
+        <file>bismillah.jpg</file>
+        <file>bootsplash.png</file>
+    </qresource>
+</RCC>
